@@ -122,7 +122,7 @@ formatacao_texto(texto_ruim)
 
 ## 👥 Autor
 
-* Curso: Alura
 * Nome: Johnny
+* Curso: Alura
 * GitHub: https://github.com/Johnny-DF26
 * LinkedIn: https://www.linkedin.com/in/datasciencejohnny/
