@@ -47,7 +47,7 @@ Após a vetorização, modelos de `Regressão Logística` foram treinados e aval
 | **Word Embeddings** | Logistic Regression | ~88%               | Captura similaridade semântica, mas a média pode perder nuances.                           |
 | **BERTimbau**       | Logistic Regression | ~88%               | Estado da arte, entende contexto profundo, mas com alto custo computacional.               |
 
-**Conclusão:** O modelo baseado em **BERTimbau** apresentou a maior acurácia, confirmando sua capacidade de capturar a complexidade semântica da linguagem. No entanto, o **TF-IDF** demonstrou ser uma excelente alternativa, com um desempenho muito competitivo e menor custo computacional, sendo uma escolha pragmática para a maioria dos cenários com avaliações curtas.
+**Conclusão:** O **TF-IDF** demonstrou ser uma excelente alternativa, com um desempenho muito competitivo e menor custo computacional, sendo uma escolha pragmática para a maioria dos cenários com avaliações curtas.
 
 ## 🚀 Como Usar o Modelo (TF-IDF)
 
